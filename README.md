@@ -39,7 +39,7 @@ The dataset comprises records of patients admitted to various hospitals.
 
   ## VISUALIZATIONS
 
- ![Image](https://github.com/user-attachments/assets/46dbd72f-ce48-4cbd-859b-c22839d7ec8d)
+ ![Image](https://github.com/user-attachments/assets/a438977f-533e-4614-b7ea-33ef686f9996)
   
 ### Age Distribution
 -	Created a bar chart to show patient age category
@@ -60,7 +60,7 @@ The dataset comprises records of patients admitted to various hospitals.
 ### Blood group Distribution
 - A line chart depicting counts of different blood groups against test results
 
-You can interact with the live visualization [HERE](https://docs.google.com/spreadsheets/d/1EMGkQe6XurukYWbspWpWoTUdvssmVT88/edit?usp=drive_link&ouid=112568531909654830535&rtpof=true&sd=true)
+You can interact with the live visualization [HERE](https://github.com/user-attachments/files/20619504/healthcare_dataset.xlsx)
 
 ## KEY INSIGHTS
 
